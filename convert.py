@@ -1,4 +1,4 @@
-"""x=eval(input())
+x=eval(input())
 print(x)
 
 
@@ -495,7 +495,7 @@ g.pop("age")
 print(g)#{'marks': 999, 'e-mail': 'kvkski@gmail.com'}
 g.popitem()
 print(g)#{'marks': 999}
-"""
+
 #///////////////////////////////////////////////////set/////////////////////////////////////
 dd=set()
 print(type(dd))
